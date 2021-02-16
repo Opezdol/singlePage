@@ -1,4 +1,4 @@
 # singlePage
 
-## I wanna try to link this project to [MYSELF] (https://opezdol@github.com)
+## I wanna try to link this project to [MYSELF] (https://opezdol@github.io)
 
